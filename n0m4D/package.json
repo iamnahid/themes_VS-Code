@@ -1,0 +1,26 @@
+{
+    "name": "n0m4D",
+    "displayName": "n0m4D",
+    "publisher": "iamnahid",
+    "description": "A custom vibrant theme for geek users",
+    "version": "1.1.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "n0m4D",
+                "uiTheme": "vs-dark",
+                "path": "./themes/n0m4D-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamnahid/VS-themes.git"
+    }
+}
